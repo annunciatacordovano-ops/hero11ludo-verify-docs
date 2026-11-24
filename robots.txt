@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://annunciatacordovano-ops.github.io/hero11ludo-verify-docs/sitemap.xml
